@@ -34,7 +34,7 @@ This project aims to **analyze, visualize, and model customer cancellation behav
 
 **Key insights:**
 - Many customers cancel within 2 months (early retention issue)  
-  ![Contract Duration](contract_duration_by_churn.png)
+  ![Contract Duration](contract_duration_distribution.png)
 - Average churn time is around 1.5 years  
 - Monthly plans have higher churn concentration  
 
